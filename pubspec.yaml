@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  vcard_parser: 0.1.2
+  vcard_parser: ^0.1.2
 
 dev_dependencies:
   flutter_test:
